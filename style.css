@@ -116,3 +116,31 @@ a{
     text-decoration: none;
     color: white;
 }
+.about-heading{
+    text-align: center;
+    background-color: #7C7FA0;
+}
+.hover-1:hover{
+    color: white;
+    background-color: #0D5098; 
+}
+.hover-2:hover{
+    color: white;
+    background-color: #0D5098; 
+}
+.hover-3:hover{
+    color: white;
+    background-color: #0D5098; 
+}
+.hover-4:hover{
+    color: white;
+    background-color: #0D5098; 
+}
+.hover-5:hover{
+    color: white;
+    background-color: #0D5098; 
+}
+.hover-6:hover{
+    color: white;
+    background-color: #0D5098; 
+}
